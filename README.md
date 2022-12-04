@@ -31,9 +31,7 @@ I hope everyone appreciates my take on this challenge.
 ## My process
 
 I try to keep my code clean and short.
-
 I observe the design file first and try to define common veriables so that I can make defined veriables and properties.
-
 I like to work in .scss file as it allows CSS nesting.
 
 ### Built with
