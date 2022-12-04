@@ -25,7 +25,7 @@ I hope everyone appreciates my take on this challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/exploresahil/Frontend-Mentor-QR-code-component-solution)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
