@@ -20,13 +20,13 @@ I hope everyone appreciates my take on this challenge.
 
 ### Screenshot
 
-![](./screenshot/screenshot.png)
-![](./screenshot/screenshot-mobile.png)
+- Desktop: [Desktop-Screenshot](./screenshot/screenshot.png)
+- Mobile [Desktop-Screenshot](./screenshot/screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/exploresahil/Frontend-Mentor-QR-code-component-solution)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Code](https://github.com/exploresahil/Frontend-Mentor-QR-code-component-solution)
+- Live Site URL: [Live Site](https://your-live-site-url.com)
 
 ## My process
 
